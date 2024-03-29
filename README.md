@@ -1,13 +1,6 @@
 # python_learn
 
-## create virtual environment
-$ python3 -m venv venv
+## Windows environment
 
-## activate virtual environment
-$ source venv/bin/activate
+### App python from windows store
 
-## install package 
-(venv) $ python3 -m pip install <package-name>
-
-## deactivate virtual environment
-(venv) $ deactivate 
